@@ -50,44 +50,44 @@ Pengfei Fang, **Pan Ji**, Lars Petersson, Mehrtash Harandi. [Set Augmented Tripl
 
 Jianyuan Wang, Yiran Zhong, Yuchao Dai, Kaihao Zhang, **Pan Ji**, Hongdong Li. [Accurate Optical Flow Estimation by Learned Matching Cost](https://arxiv.org/abs/2010.14851). In  Advances in Neural Information Processing Systems (NeurIPS), 2020.
 
-Pengfei Fang, **Pan Ji**, Jieming Zhou, Lars Petersson, Mehrtash Harandi. Channel Recurrent Attention Networks for Video Pedestrian Retrieval.  In Asian Conference on Computer Vision (ACCV), 2020.
+Pengfei Fang, **Pan Ji**, Jieming Zhou, Lars Petersson, Mehrtash Harandi. [Channel Recurrent Attention Networks for Video Pedestrian Retrieval](https://arxiv.org/abs/2010.03108).  In Asian Conference on Computer Vision (ACCV), 2020.
 
-Yuliang Zou, **Pan Ji**, Quoc-Huy Tran, Jia-Bin Huang, Manmohan Chandraker. Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling. In European Conference on Computer Vision (ECCV), 2020. Project Web.
+Yuliang Zou, **Pan Ji**, Quoc-Huy Tran, Jia-Bin Huang, Manmohan Chandraker. [Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/abs/2007.10983). In European Conference on Computer Vision (ECCV), 2020. [Project Page](https://yuliang.vision/LTMVO/).
 
-Lokender Tiwari, **Pan Ji**, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction. In European Conference onComputer Vision (ECCV), 2020. Project Web.
+Lokender Tiwari, **Pan Ji**, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](https://arxiv.org/abs/2004.10681). In European Conference onComputer Vision (ECCV), 2020. [Project Page](https://lokender.github.io/self-improving-SLAM.html).
 
-Buyu Liu, Bingbing Zhuang, Samuel Schulter, **Pan Ji**, and Manmohan Chandraker. Understanding RoadLayout from Videos as a Whole. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+Buyu Liu, Bingbing Zhuang, Samuel Schulter, **Pan Ji**, and Manmohan Chandraker. [Understanding RoadLayout from Videos as a Whole](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
-Ye Xiang, Ying Fu, **Pan Ji**, Hua Huang. Incremental Learning Using Conditional Adversarial Networks. In International Conference on Computer Vision (ICCV), 2019. 
+Ye Xiang, Ying Fu, **Pan Ji**, Hua Huang. [Incremental Learning Using Conditional Adversarial Networks](). In International Conference on Computer Vision (ICCV), 2019. 
 
-Tong Zhang, **Pan Ji**(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. Neural collaborative subspace clustering. in International Conference on Machine Learning (ICML), 2019. Talk.
+Tong Zhang, **Pan Ji**(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. [Neural collaborative subspace clustering](). in International Conference on Machine Learning (ICML), 2019. [Talk]().
 
-Yiran Zhong, **Pan Ji**, Jianyuan Wang, Yuchao Dai, Hongdong Li. Unsupervised deep epipolar flow for stationary or dynamic scenes. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Code.
+Yiran Zhong, **Pan Ji**, Jianyuan Wang, Yuchao Dai, Hongdong Li. [Unsupervised deep epipolar flow for stationary or dynamic scenes](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [Code]().
 
-Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, **Pan Ji**, Hongdong Li. Noise-aware unsupervised deep lidar-stereo fusion. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, **Pan Ji**, Hongdong Li. [Noise-aware unsupervised deep lidar-stereo fusion](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-Bingbing Zhuang, Quoc-Huy Tran, **Pan Ji**, Loong-Fah Cheong, Manmohan Chandraker. Learning structure-and-motion-aware rolling shutter correction. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. Project web.
+Bingbing Zhuang, Quoc-Huy Tran, **Pan Ji**, Loong-Fah Cheong, Manmohan Chandraker. [Learning structure-and-motion-aware rolling shutter correction](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. [Project Page]().
 
-Tong Zhang, **Pan Ji**, Mehrtash Harandi, Richard Hartley, Ian Reid. Scalable deep k-subspace clustering. In Asian Conference on Computer Vision (ACCV), 2018.
+Tong Zhang, **Pan Ji**, Mehrtash Harandi, Richard Hartley, Ian Reid. [Scalable deep k-subspace clustering](). In Asian Conference on Computer Vision (ACCV), 2018.
 
-**Pan Ji**, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. Adaptive low-rank kernel subspace clustering.  arXiv preprint arXiv:1707.04974. Code.
+**Pan Ji**, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. [Adaptive low-rank kernel subspace clustering]().  arXiv preprint arXiv:1707.04974. [Code]().
 
-**Pan Ji**(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. Deep subspace clustering networks. In Conference on Neural Information Processing Systems (NeurIPS), 2017. Code.
+**Pan Ji**(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. [Deep subspace clustering networks](). In Conference on Neural Information Processing Systems (NeurIPS), 2017. [Code]().
 
-**Pan Ji**, Hongdong Li, Yuchao Dai, Ian Reid. "Maximizing rigidity" revisited: a convex programming approach for generic 3D shape reconstruction from multiple perspective views. In IEEE International Conference on Computer Vision (ICCV), 2017. Code.
+**Pan Ji**, Hongdong Li, Yuchao Dai, Ian Reid. ["Maximizing rigidity" revisited: a convex programming approach for generic 3D shape reconstruction from multiple perspective views](). In IEEE International Conference on Computer Vision (ICCV), 2017. [Code]().
 
-**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yiran Zhong. Robust multi-body feature tracker: A segmentation-free approach. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, Spotlight (short oral). Suppl. Code. Talk
+**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yiran Zhong. [Robust multi-body feature tracker: A segmentation-free approach](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, Spotlight (short oral). [Suppl](). [Code](). [Talk]().
 
-**Pan Ji**, Mathieu Salzmann, and Hongdong Li. Shape interaction matrix revisited and robustified:  Efficient subspace clustering with corrupted and incomplete data. In IEEE International Conference on Computer Vision (ICCV), 2015, Oral. Code. Data. Suppl. Talk.
+**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Shape interaction matrix revisited and robustified:  Efficient subspace clustering with corrupted and incomplete data](). In IEEE International Conference on Computer Vision (ICCV), 2015, Oral. [Code](). [Data](). [Suppl](). [Talk]().
 
-**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yuchao Dai. Robust motion segmentation with unknown correspondences. In European Conference on Computer Vision (ECCV), 2014, Poster. Code. Data.
+**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yuchao Dai. [Robust motion segmentation with unknown correspondences](). In European Conference on Computer Vision (ECCV), 2014, Poster. [Code](). [Data]().
 
-**Pan Ji**, Yiran Zhong, Hongdong Li, and Mathieu Salzmann. Null space clustering with applications to motion segmentation and face clustering. In IEEE International Conference on Image Processing (ICIP), 2014, Best Student Paper Award. Code.
+**Pan Ji**, Yiran Zhong, Hongdong Li, and Mathieu Salzmann. [Null space clustering with applications to motion segmentation and face clustering](). In IEEE International Conference on Image Processing (ICIP), 2014, Best Student Paper Award. [Code]().
 
-**Pan Ji**, Mathieu Salzmann, and Hongdong Li. Efficient dense subspace clustering. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2014, short oral and poster. Code.
+**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Efficient dense subspace clustering](). In IEEE Winter Conference on Applications of Computer Vision (WACV), 2014, short oral and poster. [Code]().
 
-Qingqing Yang, **Pan Ji**, Dongxiao Li, Shaojun Yao, and Ming Zhang. Fast stereo matching using adaptive guided filtering. Image and Vision Computing, vol 32, no. 3 (2014): 202-211.
+Qingqing Yang, **Pan Ji**, Dongxiao Li, Shaojun Yao, and Ming Zhang. [Fast stereo matching using adaptive guided filtering](). Image and Vision Computing, vol 32, no. 3 (2014): 202-211.
 
-**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. An automatic 2D to 3D conversion algorithm using multi-depth cues. In ICALIP, 2012, Oral.
+**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [An automatic 2D to 3D conversion algorithm using multi-depth cues](). In ICALIP, 2012, Oral.
 
-**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. A novel 2D-to-3D conversion method based on blocks world. In ICALIP, 2012, Oral.
+**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [A novel 2D-to-3D conversion method based on blocks world](). In ICALIP, 2012, Oral.
