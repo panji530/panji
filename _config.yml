@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pan Ji, Ph.D."
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Pan Ji"
 description              : &description "Technologist"
@@ -22,9 +22,9 @@ repository               : "panji530/panji530.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Director of Visual Perception"
+  name             : "Pan Ji, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "XR Vision Labs, Tencent Games"
+  bio              : "Director of Visual Perception, XR Vision Labs, Tencent Games"
   location         : "Shanghai, China"
   employer         : "Tencent"
   uri              : # URL
