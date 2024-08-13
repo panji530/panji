@@ -10,3 +10,82 @@ redirect_from:
 Dr. Pan Ji is currently the Director of Visual Perception of XR Vision Labs at Tencent. From Sep. 2020 to Jun. 2022, he was a Senior Staff Research Engineer and Manager at InnoPeak Technology (a.k.a., OPPO US Research Center), leading a team to work on XR (AR/VR/MR) related projects. Previously he worked as a researcher at NEC Labs America from Feb. 2018 to Sep. 2020. Before moving to the U.S. in Feb. 2018, he worked as an ARC Senior Research Associate (Post-Doc) with Pro. Ian Reid at the University of Adelaide since Jul. 2016. Prior to that, he was a Ph.D. student at the Australian National University from Jan. 2013 to Jul. 2016, supervised by Pro. Hongdong Li and Dr. Mathieu Salzmann.  His current research interests lie in 3D Gen AI with applications in the gaming industry. He received the Best Student Paper Award at the International Conference on Image Processing (ICIP) 2014.
 
 From Sep. 2011 to Oct. 2012, Pan was a research assistant at the 3DTV Laboratory of Zhejiang  University, China. He received his Bachelor's Degree in Engineering with Chu Kochen Honors from Zhejiang University in Jun. 2011.
+
+# Publications
+Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, Pan Ji, Hongdong Li. Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches. arXiv: 2408.04567, 2024.
+
+Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, Pan Ji. LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image. arXiv: 2405.15622, 2024.
+
+Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, Pan Ji. Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane. arXiv preprint arXiv: 2403.16210, 2024.
+
+Ruikai Cui, Weizhe Liu, Weixuan Sun, Senbo Wang, Taizhang Shang, Yang Li, Xibin Song, Han Yan, Zhennan Wu, Shenzhou Chen, Hongdong Li, Pan Ji. NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation. in European Conference on Computer Vision (ECCV), 2024.
+
+Zhennan Wu, Yang Li, Han Yan, Taizhang Shang, Weixuan Sun, Senbo Wang, Ruikai Cui, Weizhe Liu, Hiroyuki Sato, Hongdong Li, Pan Ji. BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation. ACM Transactions on Graphics (ToG) 43 (4), 1-17, 2024. Project Web. Code.
+
+Jiaxin Wei, Xibin Song, Weizhe Liu, Laurent Kneip, Hongdong Li, Pan Ji. RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery. In IEEE International Conference on Robotics and Automation (ICRA), 2024.
+
+Zhuqing Zhang, Dongxuan Li, Jiayao Ma, Yijia He, Pan Ji, Rong Xiong, Hongdong Li, Yue Wang. Advancing Virtual Reality Interaction: A Ring-Shaped Controller and Pose Tracking. In IEEE International Conference on Robotics and Automation (ICRA), 2024.
+
+Jiayu Yang, Ziang Cheng, Yunfei Duan, Pan Ji, Hongdong Li. Consistnet: Enforcing 3d consistency for multi-view images diffusion. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+
+Changjiang Cai, Pan Ji, Qingan Yan, Yi Xu. RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. Web.
+
+Nitin Bansal, Pan Ji (*), Junsong Yan, Yi Xu. Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth. Winter Conference on Applications of Computer Vision (WACV), 2023.
+
+Pan Ji*, Qingan Yan*, Yuxin Ma, Yi Xu. GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping. In European Conference on Computer Vision (ECCV), 2022.
+
+Jiachen Liu, Pan Ji (*), Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Code.
+
+Zhenyue Qin, Yang Liu, Pan Ji, Dongwoo Kim, Lei Wang, RI McKay, Saeed Anwar, Tom Gedeon. Fusing higher-order features in graph neural networks for skeleton-based action recognition. IEEE Transactions on Neural Networks and Learning Systems, 2022/9/19.
+
+Pan Ji*, Runze Li*, Bir Bhanu, Yi Xu. MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments. In International Conference on Computer Vision (ICCV), 2021. 
+
+Yang Liu, Zhenyue Qin, Saeed Anwar, Pan Ji, Dongwoo Kim, Sabrina Caldwell, Tom Gedeon. Invertible Denoising Network: A Light Solution for Real Noise Removal. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. Code.
+
+Ming Zhu, Chao Ma, Pan Ji, Xiaokang Yang.  Cross-Modality 3D Object Detection.  In IEEE Winter Conference on Computer Vision (WACV), 2021.
+
+Pengfei Fang, Pan Ji, Lars Petersson, Mehrtash Harandi. Set Augmented Triplet Loss for Video Person Re-Identification.  In IEEE Winter Conference on Computer Vision (WACV), 2021.
+
+Jianyuan Wang, Yiran Zhong, Yuchao Dai, Kaihao Zhang, Pan Ji, Hongdong Li. Accurate Optical Flow Estimation by Learned Matching Cost. In  Advances in Neural Information Processing Systems (NeurIPS), 2020.
+
+Pengfei Fang, Pan Ji, Jieming Zhou, Lars Petersson, Mehrtash Harandi. Channel Recurrent Attention Networks for Video Pedestrian Retrieval.  In Asian Conference on Computer Vision (ACCV), 2020.
+
+Yuliang Zou, Pan Ji, Quoc-Huy Tran, Jia-Bin Huang, Manmohan Chandraker. Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling. In European Conference on Computer Vision (ECCV), 2020. Project Web.
+
+Lokender Tiwari, Pan Ji, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction. In European Conference onComputer Vision (ECCV), 2020. Project Web.
+
+Buyu Liu, Bingbing Zhuang, Samuel Schulter, Pan Ji, and Manmohan Chandraker. Understanding RoadLayout from Videos as a Whole. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+
+Ye Xiang, Ying Fu, Pan Ji, Hua Huang. Incremental Learning Using Conditional Adversarial Networks. In International Conference on Computer Vision (ICCV), 2019. 
+
+Tong Zhang, Pan Ji(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. Neural collaborative subspace clustering. in International Conference on Machine Learning (ICML), 2019. Talk.
+
+Yiran Zhong, Pan Ji, Jianyuan Wang, Yuchao Dai, Hongdong Li. Unsupervised deep epipolar flow for stationary or dynamic scenes. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Code.
+
+Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, Pan Ji, Hongdong Li. Noise-aware unsupervised deep lidar-stereo fusion. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+
+Bingbing Zhuang, Quoc-Huy Tran, Pan Ji, Loong-Fah Cheong, Manmohan Chandraker. Learning structure-and-motion-aware rolling shutter correction. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. Project web.
+
+Tong Zhang, Pan Ji, Mehrtash Harandi, Richard Hartley, Ian Reid. Scalable deep k-subspace clustering. In Asian Conference on Computer Vision (ACCV), 2018.
+
+Pan Ji, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. Adaptive low-rank kernel subspace clustering.  arXiv preprint arXiv:1707.04974. Code.
+
+Pan Ji(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. Deep subspace clustering networks. In Conference on Neural Information Processing Systems (NeurIPS), 2017. Code.
+
+Pan Ji, Hongdong Li, Yuchao Dai, Ian Reid. "Maximizing rigidity" revisited: a convex programming approach for generic 3D shape reconstruction from multiple perspective views. In IEEE International Conference on Computer Vision (ICCV), 2017. Code.
+
+Pan Ji, Hongdong Li, Mathieu Salzmann, and Yiran Zhong. Robust multi-body feature tracker: A segmentation-free approach. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, Spotlight (short oral). Suppl. Code. Talk
+
+Pan Ji, Mathieu Salzmann, and Hongdong Li. Shape interaction matrix revisited and robustified:  Efficient subspace clustering with corrupted and incomplete data. In IEEE International Conference on Computer Vision (ICCV), 2015, Oral. Code. Data. Suppl. Talk.
+
+Pan Ji, Hongdong Li, Mathieu Salzmann, and Yuchao Dai. Robust motion segmentation with unknown correspondences. In European Conference on Computer Vision (ECCV), 2014, Poster. Code. Data.
+
+Pan Ji, Yiran Zhong, Hongdong Li, and Mathieu Salzmann. Null space clustering with applications to motion segmentation and face clustering. In IEEE International Conference on Image Processing (ICIP), 2014, Best Student Paper Award. Code.
+
+Pan Ji, Mathieu Salzmann, and Hongdong Li. Efficient dense subspace clustering. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2014, short oral and poster. Code.
+
+Qingqing Yang, Pan Ji, Dongxiao Li, Shaojun Yao, and Ming Zhang. Fast stereo matching using adaptive guided filtering. Image and Vision Computing, vol 32, no. 3 (2014): 202-211.
+
+Pan Ji, Lianghao Wang, Dongxiao Li, and Ming Zhang. An automatic 2D to 3D conversion algorithm using multi-depth cues. In ICALIP, 2012, Oral.
+
+Pan Ji, Lianghao Wang, Dongxiao Li, and Ming Zhang. A novel 2D-to-3D conversion method based on blocks world. In ICALIP, 2012, Oral.
