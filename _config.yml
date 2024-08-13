@@ -22,11 +22,11 @@ repository               : "panji530/panji530.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Pan Ji"
+  name             : "Director of Visual Perception"
   pronouns         : # example: "she/her"  
-  bio              : "Technologist"
+  bio              : "XR Vision Labs, Tencent Games"
   location         : "Shanghai, China"
-  employer         : "Tencent Games"
+  employer         : "Tencent"
   uri              : # URL
   email            : "peterji530 at gmail.com" 
 
