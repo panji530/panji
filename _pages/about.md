@@ -12,11 +12,11 @@ Dr. Pan Ji is currently the Director of Visual Perception of XR Vision Labs at T
 From Sep. 2011 to Oct. 2012, Pan was a research assistant at the 3DTV Laboratory of Zhejiang  University, China. He received his Bachelor's Degree in Engineering with Chu Kochen Honors from Zhejiang University in Jun. 2011.
 
 # Publications
-Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, Pan Ji, Hongdong Li. Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches. arXiv: 2408.04567, 2024.
+Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Hongdong Li. [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches](https://arxiv.org/pdf/2408.04567). arXiv: 2408.04567, 2024.
 
-Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, Pan Ji. LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image. arXiv: 2405.15622, 2024.
+Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, Pan Ji. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). arXiv: 2405.15622, 2024.
 
-Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, Pan Ji. Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane. arXiv preprint arXiv: 2403.16210, 2024.
+Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, Pan Ji. [Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane](https://arxiv.org/pdf/2403.16210). arXiv preprint arXiv: 2403.16210, 2024.
 
 Ruikai Cui, Weizhe Liu, Weixuan Sun, Senbo Wang, Taizhang Shang, Yang Li, Xibin Song, Han Yan, Zhennan Wu, Shenzhou Chen, Hongdong Li, Pan Ji. NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation. in European Conference on Computer Vision (ECCV), 2024.
 
