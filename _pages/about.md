@@ -56,38 +56,38 @@ Yuliang Zou, **Pan Ji**, Quoc-Huy Tran, Jia-Bin Huang, Manmohan Chandraker. [Lea
 
 Lokender Tiwari, **Pan Ji**, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](https://arxiv.org/abs/2004.10681). In European Conference onComputer Vision (ECCV), 2020. [Project Page](https://lokender.github.io/self-improving-SLAM.html).
 
-Buyu Liu, Bingbing Zhuang, Samuel Schulter, **Pan Ji**, and Manmohan Chandraker. [Understanding RoadLayout from Videos as a Whole](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+Buyu Liu, Bingbing Zhuang, Samuel Schulter, **Pan Ji**, and Manmohan Chandraker. [Understanding RoadLayout from Videos as a Whole](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Understanding_Road_Layout_From_Videos_as_a_Whole_CVPR_2020_paper.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
-Ye Xiang, Ying Fu, **Pan Ji**, Hua Huang. [Incremental Learning Using Conditional Adversarial Networks](). In International Conference on Computer Vision (ICCV), 2019. 
+Ye Xiang, Ying Fu, **Pan Ji**, Hua Huang. [Incremental Learning Using Conditional Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2019/html/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.html). In International Conference on Computer Vision (ICCV), 2019. 
 
-Tong Zhang, **Pan Ji**(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. [Neural collaborative subspace clustering](). in International Conference on Machine Learning (ICML), 2019. [Talk]().
+Tong Zhang, **Pan Ji**(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. [Neural collaborative subspace clustering](https://arxiv.org/abs/1904.10596). in International Conference on Machine Learning (ICML), 2019. [Talk](https://slideslive.com/38917411/unsupervised-learning).
 
-Yiran Zhong, **Pan Ji**, Jianyuan Wang, Yuchao Dai, Hongdong Li. [Unsupervised deep epipolar flow for stationary or dynamic scenes](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [Code]().
+Yiran Zhong, **Pan Ji**, Jianyuan Wang, Yuchao Dai, Hongdong Li. [Unsupervised deep epipolar flow for stationary or dynamic scenes](https://arxiv.org/abs/1904.03848). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [Code](https://github.com/yiranzhong/EPIflow).
 
-Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, **Pan Ji**, Hongdong Li. [Noise-aware unsupervised deep lidar-stereo fusion](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, **Pan Ji**, Hongdong Li. [Noise-aware unsupervised deep lidar-stereo fusion](https://arxiv.org/abs/1904.03868). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
-Bingbing Zhuang, Quoc-Huy Tran, **Pan Ji**, Loong-Fah Cheong, Manmohan Chandraker. [Learning structure-and-motion-aware rolling shutter correction](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. [Project Page]().
+Bingbing Zhuang, Quoc-Huy Tran, **Pan Ji**, Loong-Fah Cheong, Manmohan Chandraker. [Learning structure-and-motion-aware rolling shutter correction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. [Project Page](https://www.nec-labs.com/research/media-analytics/projects/structure-and-motion-aware-rolling-shutter-correction/).
 
-Tong Zhang, **Pan Ji**, Mehrtash Harandi, Richard Hartley, Ian Reid. [Scalable deep k-subspace clustering](). In Asian Conference on Computer Vision (ACCV), 2018.
+Tong Zhang, **Pan Ji**, Mehrtash Harandi, Richard Hartley, Ian Reid. [Scalable deep k-subspace clustering](https://arxiv.org/abs/1811.01045). In Asian Conference on Computer Vision (ACCV), 2018.
 
-**Pan Ji**, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. [Adaptive low-rank kernel subspace clustering]().  arXiv preprint arXiv:1707.04974. [Code]().
+**Pan Ji**, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. [Adaptive low-rank kernel subspace clustering](https://www.researchgate.net/publication/318488020_Adaptive_Low-Rank_Kernel_Subspace_Clustering).  arXiv preprint arXiv:1707.04974. [Code](https://github.com/panji530/Low-rank-kernel-subspace-clustering).
 
-**Pan Ji**(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. [Deep subspace clustering networks](). In Conference on Neural Information Processing Systems (NeurIPS), 2017. [Code]().
+**Pan Ji**(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. [Deep subspace clustering networks](https://proceedings.neurips.cc/paper_files/paper/2017/file/e369853df766fa44e1ed0ff613f563bd-Paper.pdf). In Conference on Neural Information Processing Systems (NeurIPS), 2017. [Code](https://github.com/panji530/Deep-subspace-clustering-networks).
 
 **Pan Ji**, Hongdong Li, Yuchao Dai, Ian Reid. ["Maximizing rigidity" revisited: a convex programming approach for generic 3D shape reconstruction from multiple perspective views](). In IEEE International Conference on Computer Vision (ICCV), 2017. [Code]().
 
-**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yiran Zhong. [Robust multi-body feature tracker: A segmentation-free approach](). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, Spotlight (short oral). [Suppl](). [Code](). [Talk]().
+**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yiran Zhong. [Robust multi-body feature tracker: A segmentation-free approach](https://arxiv.org/abs/1603.00110). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, Spotlight (short oral). [Suppl](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwZXRlcmppMTk5MHxneDozYWU3NGY3MDI3OGVlYWI1). [Code](https://github.com/panji530/Multi-body-KLT-Tracker). [Talk](https://www.youtube.com/watch?v=gg1MjXpmvhQ).
 
-**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Shape interaction matrix revisited and robustified:  Efficient subspace clustering with corrupted and incomplete data](). In IEEE International Conference on Computer Vision (ICCV), 2015, Oral. [Code](). [Data](). [Suppl](). [Talk]().
+**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Shape interaction matrix revisited and robustified:  Efficient subspace clustering with corrupted and incomplete data](https://arxiv.org/abs/1509.02649). In IEEE International Conference on Computer Vision (ICCV), 2015, Oral. [Code](https://github.com/panji530/Robust-shape-interaction-matrix). [Data](http://vision.jhu.edu/data/). [Suppl](https://www.researchgate.net/profile/Pan-Ji-2/publication/290821443_RSIM-supp/links/569c414608aeeea985a5b12a/RSIM-supp.pdf). [Talk](https://videolectures.net/iccv2015_ji_incomplete_data/).
 
-**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yuchao Dai. [Robust motion segmentation with unknown correspondences](). In European Conference on Computer Vision (ECCV), 2014, Poster. [Code](). [Data]().
+**Pan Ji**, Hongdong Li, Mathieu Salzmann, and Yuchao Dai. [Robust motion segmentation with unknown correspondences](https://www.researchgate.net/publication/263277862_Robust_Motion_Segmentation_With_Unknown_Correspondences). In European Conference on Computer Vision (ECCV), 2014, Poster. [Code](https://github.com/panji530/Motion-segmentation-with-unknown-correspondences).
 
-**Pan Ji**, Yiran Zhong, Hongdong Li, and Mathieu Salzmann. [Null space clustering with applications to motion segmentation and face clustering](). In IEEE International Conference on Image Processing (ICIP), 2014, Best Student Paper Award. [Code]().
+**Pan Ji**, Yiran Zhong, Hongdong Li, and Mathieu Salzmann. [Null space clustering with applications to motion segmentation and face clustering](https://www.researchgate.net/publication/263011414_Null_space_clustering_with_applications_to_motion_segmentation_and_face_clustering). In IEEE International Conference on Image Processing (ICIP), 2014, Best Student Paper Award. [Code](https://github.com/panji530/Null-space-clustering).
 
-**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Efficient dense subspace clustering](). In IEEE Winter Conference on Applications of Computer Vision (WACV), 2014, short oral and poster. [Code]().
+**Pan Ji**, Mathieu Salzmann, and Hongdong Li. [Efficient dense subspace clustering](https://www.researchgate.net/publication/261989058_Efficient_Dense_Subspace_Clustering). In IEEE Winter Conference on Applications of Computer Vision (WACV), 2014, short oral and poster. [Code](https://github.com/panji530/EDSC).
 
-Qingqing Yang, **Pan Ji**, Dongxiao Li, Shaojun Yao, and Ming Zhang. [Fast stereo matching using adaptive guided filtering](). Image and Vision Computing, vol 32, no. 3 (2014): 202-211.
+Qingqing Yang, **Pan Ji**, Dongxiao Li, Shaojun Yao, and Ming Zhang. [Fast stereo matching using adaptive guided filtering](https://www.sciencedirect.com/science/article/abs/pii/S0262885614000134). Image and Vision Computing, vol 32, no. 3 (2014): 202-211.
 
-**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [An automatic 2D to 3D conversion algorithm using multi-depth cues](). In ICALIP, 2012, Oral.
+**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [An automatic 2D to 3D conversion algorithm using multi-depth cues](https://ieeexplore.ieee.org/document/6376677). In ICALIP, 2012, Oral.
 
-**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [A novel 2D-to-3D conversion method based on blocks world](). In ICALIP, 2012, Oral.
+**Pan Ji**, Lianghao Wang, Dongxiao Li, and Ming Zhang. [A novel 2D-to-3D conversion method based on blocks world](https://ieeexplore.ieee.org/document/6376676). In ICALIP, 2012, Oral.
