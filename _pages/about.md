@@ -32,11 +32,11 @@ Jiayu Yang, Ziang Cheng, Yunfei Duan, **Pan Ji**, Hongdong Li. [Consistnet: Enfo
 
 Changjiang Cai, **Pan Ji**, Qingan Yan, Yi Xu. [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](http://openaccess.thecvf.com/content/CVPR2023/html/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.html). In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
 
-Nitin Bansal, **Pan Ji** (*), Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth](https://arxiv.org/pdf/2206.10562.pdf). Winter Conference on Applications of Computer Vision (WACV), 2023.
+Nitin Bansal, **Pan Ji**, Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth](https://arxiv.org/pdf/2206.10562.pdf). Winter Conference on Applications of Computer Vision (WACV), 2023.
 
 **Pan Ji***, Qingan Yan*, Yuxin Ma, Yi Xu. [GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping](https://arxiv.org/abs/2205.01656). In European Conference on Computer Vision (ECCV), 2022.
 
-Jiachen Liu, **Pan Ji** (*), Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/oppo-us-research/PlaneMVS).
+Jiachen Liu, **Pan Ji**, Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/oppo-us-research/PlaneMVS).
 
 Zhenyue Qin, Yang Liu, **Pan Ji**, Dongwoo Kim, Lei Wang, RI McKay, Saeed Anwar, Tom Gedeon. [Fusing higher-order features in graph neural networks for skeleton-based action recognition](https://ieeexplore.ieee.org/abstract/document/9895208/). IEEE Transactions on Neural Networks and Learning Systems, 2022/9/19.
 
@@ -54,17 +54,17 @@ Pengfei Fang, **Pan Ji**, Jieming Zhou, Lars Petersson, Mehrtash Harandi. [Chann
 
 Yuliang Zou, **Pan Ji**, Quoc-Huy Tran, Jia-Bin Huang, Manmohan Chandraker. [Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/abs/2007.10983). In European Conference on Computer Vision (ECCV), 2020. [Project Page](https://yuliang.vision/LTMVO/).
 
-Lokender Tiwari, **Pan Ji**, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](https://arxiv.org/abs/2004.10681). In European Conference onComputer Vision (ECCV), 2020. [Project Page](https://lokender.github.io/self-improving-SLAM.html).
+Lokender Tiwari, **Pan Ji**, Quoc-Huy Tran, Bingbing Zhuang, Saket Anand, Manmohan Chandraker. [Pseudo RGB-D for Self-Improving Monocular SLAM and Depth Prediction](https://arxiv.org/abs/2004.10681). In European Conference on Computer Vision (ECCV), 2020. [Project Page](https://lokender.github.io/self-improving-SLAM.html).
 
 Buyu Liu, Bingbing Zhuang, Samuel Schulter, **Pan Ji**, and Manmohan Chandraker. [Understanding RoadLayout from Videos as a Whole](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Understanding_Road_Layout_From_Videos_as_a_Whole_CVPR_2020_paper.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
 Ye Xiang, Ying Fu, **Pan Ji**, Hua Huang. [Incremental Learning Using Conditional Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2019/html/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.html). In International Conference on Computer Vision (ICCV), 2019. 
 
-Tong Zhang, **Pan Ji**(*), Mehrtash Harandi, Wenbing Huang, Hongdong Li. [Neural collaborative subspace clustering](https://arxiv.org/abs/1904.10596). in International Conference on Machine Learning (ICML), 2019. [Talk](https://slideslive.com/38917411/unsupervised-learning).
+Tong Zhang, **Pan Ji**, Mehrtash Harandi, Wenbing Huang, Hongdong Li. [Neural collaborative subspace clustering](https://arxiv.org/abs/1904.10596). in International Conference on Machine Learning (ICML), 2019. [Talk](https://slideslive.com/38917411/unsupervised-learning).
 
 Yiran Zhong, **Pan Ji**, Jianyuan Wang, Yuchao Dai, Hongdong Li. [Unsupervised deep epipolar flow for stationary or dynamic scenes](https://arxiv.org/abs/1904.03848). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [Code](https://github.com/yiranzhong/EPIflow).
 
-Xuelian Cheng(*), Yiran Zhong(*), Yuchao Dai, **Pan Ji**, Hongdong Li. [Noise-aware unsupervised deep lidar-stereo fusion](https://arxiv.org/abs/1904.03868). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+Xuelian Cheng, Yiran Zhong, Yuchao Dai, **Pan Ji**, Hongdong Li. [Noise-aware unsupervised deep lidar-stereo fusion](https://arxiv.org/abs/1904.03868). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
 
 Bingbing Zhuang, Quoc-Huy Tran, **Pan Ji**, Loong-Fah Cheong, Manmohan Chandraker. [Learning structure-and-motion-aware rolling shutter correction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuang_Learning_Structure-And-Motion-Aware_Rolling_Shutter_Correction_CVPR_2019_paper.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral. [Project Page](https://www.nec-labs.com/research/media-analytics/projects/structure-and-motion-aware-rolling-shutter-correction/).
 
@@ -72,7 +72,7 @@ Tong Zhang, **Pan Ji**, Mehrtash Harandi, Richard Hartley, Ian Reid. [Scalable d
 
 **Pan Ji**, Ian Reid, Ravi Garg, Hongdong Li, and Mathieu Salzmann. [Adaptive low-rank kernel subspace clustering](https://www.researchgate.net/publication/318488020_Adaptive_Low-Rank_Kernel_Subspace_Clustering).  arXiv preprint arXiv:1707.04974. [Code](https://github.com/panji530/Low-rank-kernel-subspace-clustering).
 
-**Pan Ji**(*), Tong Zhang(*), Hongdong Li, Mathieu Salzmann, Ian Reid. [Deep subspace clustering networks](https://proceedings.neurips.cc/paper_files/paper/2017/file/e369853df766fa44e1ed0ff613f563bd-Paper.pdf). In Conference on Neural Information Processing Systems (NeurIPS), 2017. [Code](https://github.com/panji530/Deep-subspace-clustering-networks).
+**Pan Ji**, Tong Zhang, Hongdong Li, Mathieu Salzmann, Ian Reid. [Deep subspace clustering networks](https://proceedings.neurips.cc/paper_files/paper/2017/file/e369853df766fa44e1ed0ff613f563bd-Paper.pdf). In Conference on Neural Information Processing Systems (NeurIPS), 2017. [Code](https://github.com/panji530/Deep-subspace-clustering-networks).
 
 **Pan Ji**, Hongdong Li, Yuchao Dai, Ian Reid. ["Maximizing rigidity" revisited: a convex programming approach for generic 3D shape reconstruction from multiple perspective views](). In IEEE International Conference on Computer Vision (ICCV), 2017. [Code]().
 
