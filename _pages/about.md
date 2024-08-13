@@ -32,23 +32,23 @@ Jiayu Yang, Ziang Cheng, Yunfei Duan, **Pan Ji**, Hongdong Li. [Consistnet: Enfo
 
 Changjiang Cai, **Pan Ji**, Qingan Yan, Yi Xu. [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](http://openaccess.thecvf.com/content/CVPR2023/html/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.html). In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
 
-Nitin Bansal, **Pan Ji** (*), Junsong Yan, Yi Xu. Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth. Winter Conference on Applications of Computer Vision (WACV), 2023.
+Nitin Bansal, **Pan Ji** (*), Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth](https://arxiv.org/pdf/2206.10562.pdf). Winter Conference on Applications of Computer Vision (WACV), 2023.
 
-**Pan Ji***, Qingan Yan*, Yuxin Ma, Yi Xu. GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping. In European Conference on Computer Vision (ECCV), 2022.
+**Pan Ji***, Qingan Yan*, Yuxin Ma, Yi Xu. [GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping](https://arxiv.org/abs/2205.01656). In European Conference on Computer Vision (ECCV), 2022.
 
-Jiachen Liu, **Pan Ji** (*), Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Code.
+Jiachen Liu, **Pan Ji** (*), Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/oppo-us-research/PlaneMVS).
 
-Zhenyue Qin, Yang Liu, **Pan Ji**, Dongwoo Kim, Lei Wang, RI McKay, Saeed Anwar, Tom Gedeon. Fusing higher-order features in graph neural networks for skeleton-based action recognition. IEEE Transactions on Neural Networks and Learning Systems, 2022/9/19.
+Zhenyue Qin, Yang Liu, **Pan Ji**, Dongwoo Kim, Lei Wang, RI McKay, Saeed Anwar, Tom Gedeon. [Fusing higher-order features in graph neural networks for skeleton-based action recognition](https://ieeexplore.ieee.org/abstract/document/9895208/). IEEE Transactions on Neural Networks and Learning Systems, 2022/9/19.
 
-**Pan Ji***, Runze Li*, Bir Bhanu, Yi Xu. MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments. In International Conference on Computer Vision (ICCV), 2021. 
+**Pan Ji***, Runze Li*, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
 
-Yang Liu, Zhenyue Qin, Saeed Anwar, **Pan Ji**, Dongwoo Kim, Sabrina Caldwell, Tom Gedeon. Invertible Denoising Network: A Light Solution for Real Noise Removal. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. Code.
+Yang Liu, Zhenyue Qin, Saeed Anwar, **Pan Ji**, Dongwoo Kim, Sabrina Caldwell, Tom Gedeon. [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/pdf/2104.10546.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. Code.
 
-Ming Zhu, Chao Ma, **Pan Ji**, Xiaokang Yang.  Cross-Modality 3D Object Detection.  In IEEE Winter Conference on Computer Vision (WACV), 2021.
+Ming Zhu, Chao Ma, **Pan Ji**, Xiaokang Yang.  [Cross-Modality 3D Object Detection](https://arxiv.org/abs/2008.10436).  In IEEE Winter Conference on Computer Vision (WACV), 2021.
 
-Pengfei Fang, **Pan Ji**, Lars Petersson, Mehrtash Harandi. Set Augmented Triplet Loss for Video Person Re-Identification.  In IEEE Winter Conference on Computer Vision (WACV), 2021.
+Pengfei Fang, **Pan Ji**, Lars Petersson, Mehrtash Harandi. [Set Augmented Triplet Loss for Video Person Re-Identification](https://arxiv.org/abs/2011.00774).  In IEEE Winter Conference on Computer Vision (WACV), 2021.
 
-Jianyuan Wang, Yiran Zhong, Yuchao Dai, Kaihao Zhang, **Pan Ji**, Hongdong Li. Accurate Optical Flow Estimation by Learned Matching Cost. In  Advances in Neural Information Processing Systems (NeurIPS), 2020.
+Jianyuan Wang, Yiran Zhong, Yuchao Dai, Kaihao Zhang, **Pan Ji**, Hongdong Li. [Accurate Optical Flow Estimation by Learned Matching Cost](https://arxiv.org/abs/2010.14851). In  Advances in Neural Information Processing Systems (NeurIPS), 2020.
 
 Pengfei Fang, **Pan Ji**, Jieming Zhou, Lars Petersson, Mehrtash Harandi. Channel Recurrent Attention Networks for Video Pedestrian Retrieval.  In Asian Conference on Computer Vision (ACCV), 2020.
 
