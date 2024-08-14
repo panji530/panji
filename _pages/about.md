@@ -24,11 +24,11 @@ Ruikai Cui, Weizhe Liu, Weixuan Sun, Senbo Wang, Taizhang Shang, Yang Li, Xibin 
 
 Zhennan Wu, Yang Li, Han Yan, Taizhang Shang, Weixuan Sun, Senbo Wang, Ruikai Cui, Weizhe Liu, Hiroyuki Sato, Hongdong Li, **Pan Ji**. [BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation](https://arxiv.org/abs/2401.17053). ACM Transactions on Graphics (ToG) 43 (4), 1-17, 2024. [Project Page](https://yang-l1.github.io/blockfusion/). [Code](https://github.com/Tencent/BlockFusion).
 
+Jiayu Yang, Ziang Cheng, Yunfei Duan, **Pan Ji**, Hongdong Li. [Consistnet: Enforcing 3d consistency for multi-view images diffusion](https://arxiv.org/abs/2310.10343). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Project Page](https://jiayuyang.github.io/Consist_Net/).
+
 Jiaxin Wei, Xibin Song, Weizhe Liu, Laurent Kneip, Hongdong Li, **Pan Ji**. [RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery](https://arxiv.org/abs/2309.10255). In IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
 Zhuqing Zhang, Dongxuan Li, Jiayao Ma, Yijia He, **Pan Ji**, Rong Xiong, Hongdong Li, Yue Wang. Advancing Virtual Reality Interaction: A Ring-Shaped Controller and Pose Tracking. In IEEE International Conference on Robotics and Automation (ICRA), 2024.
-
-Jiayu Yang, Ziang Cheng, Yunfei Duan, **Pan Ji**, Hongdong Li. [Consistnet: Enforcing 3d consistency for multi-view images diffusion](https://arxiv.org/abs/2310.10343). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Project Page](https://jiayuyang.github.io/Consist_Net/).
 
 Changjiang Cai, **Pan Ji**, Qingan Yan, Yi Xu. [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](http://openaccess.thecvf.com/content/CVPR2023/html/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.html). In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
 
