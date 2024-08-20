@@ -13,7 +13,7 @@ From Sep. 2011 to Oct. 2012, Pan was a research assistant at the 3DTV Laboratory
 
 **I'm hiring research interns to work on 3D Gen AI. Drop me an email if you're interested!**
 
-# Publications
+# Selected Publications
 Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Hongdong Li. [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches](https://arxiv.org/pdf/2408.04567). arXiv: 2408.04567, 2024.
 
 Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, **Pan Ji**. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). arXiv: 2405.15622, 2024.
@@ -30,6 +30,10 @@ Jiaxin Wei, Xibin Song, Weizhe Liu, Laurent Kneip, Hongdong Li, **Pan Ji**. [RGB
 
 Zhuqing Zhang, Dongxuan Li, Jiayao Ma, Yijia He, **Pan Ji**, Rong Xiong, Hongdong Li, Yue Wang. Advancing Virtual Reality Interaction: A Ring-Shaped Controller and Pose Tracking. In IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
+Yiqun Zhang, Zhenyue Qin, Saeed Anwar, Dongwoo Kim, Yang Liu, **Pan Ji**, Tom Gedeon. [Position-Sensing Graph Neural Networks: Proactively Learning Nodes Relative Positions](https://ieeexplore.ieee.org/abstract/document/10478451). IEEE Transactions on Neural Networks and Learning Systems, 2024/3/26.
+
+Xiangyu Xu, Lichang Chen, Changjiang Cai, Huangying Zhan, Qingan Yan, **Pan Ji**, Junsong Yuan, Heng Huang, Yi Xu. [Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction](https://arxiv.org/pdf/2304.06178). arXiv:2304.06178, 2023.
+
 Changjiang Cai, **Pan Ji**, Qingan Yan, Yi Xu. [RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo](http://openaccess.thecvf.com/content/CVPR2023/html/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.html). In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [Project Page](http://www.changjiangcai.com/riav-mvs.github.io/).
 
 Nitin Bansal, **Pan Ji**, Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth](https://arxiv.org/pdf/2206.10562.pdf). Winter Conference on Applications of Computer Vision (WACV), 2023.
@@ -39,6 +43,14 @@ Nitin Bansal, **Pan Ji**, Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply
 Jiachen Liu, **Pan Ji**, Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/oppo-us-research/PlaneMVS).
 
 Zhenyue Qin, Yang Liu, **Pan Ji**, Dongwoo Kim, Lei Wang, RI McKay, Saeed Anwar, Tom Gedeon. [Fusing higher-order features in graph neural networks for skeleton-based action recognition](https://ieeexplore.ieee.org/abstract/document/9895208/). IEEE Transactions on Neural Networks and Learning Systems, 2022/9/19.
+
+Yang Liu, Saeed Anwar, Zhenyue Qin, **Pan Ji**, Sabrina Caldwell, Tom Gedeon. [Disentangling noise from images: A flow-based image denoising neural network](https://www.mdpi.com/1424-8220/22/24/9844). Sensors, 2022/12/14.
+
+Zhenyue Qin, **Pan Ji**, Dongwoo Kim, Yang Liu, Saeed Anwar, Tom Gedeon. [Strengthening skeletal action recognizers via leveraging temporal patterns](https://arxiv.org/pdf/2205.14405). in European Conference on Computer Vision (ECCV) - RWS, 2022.
+
+Sudhir Yarram, Jialian Wu, **Pan Ji**, Yi Xu, Junsong Yuan. [Deformable vistr: Spatio temporal deformable attention for video instance segmentation](https://arxiv.org/pdf/2203.06318). in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.
+
+Pengfei Fang, Jieming Zhou, Soumava Kumar Roy, **Pan Ji**, Lars Petersson, Mehrtash Harandi. [Attention in attention networks for person retrieval](https://ieeexplore.ieee.org/abstract/document/9405427), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021/4/15.
 
 **Pan Ji***, Runze Li*, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
 
