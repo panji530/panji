@@ -52,7 +52,7 @@ Sudhir Yarram, Jialian Wu, **Pan Ji**, Yi Xu, Junsong Yuan. [Deformable vistr: S
 
 Pengfei Fang, Jieming Zhou, Soumava Kumar Roy, **Pan Ji**, Lars Petersson, Mehrtash Harandi. [Attention in attention networks for person retrieval](https://ieeexplore.ieee.org/abstract/document/9405427), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021/4/15.
 
-**Pan Ji***, Runze Li*, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
+**Pan Ji***, Runze Li, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
 
 Yang Liu, Zhenyue Qin, Saeed Anwar, **Pan Ji**, Dongwoo Kim, Sabrina Caldwell, Tom Gedeon. [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/pdf/2104.10546.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/Yang-Liu1082/InvDN).
 
