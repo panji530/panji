@@ -28,7 +28,7 @@ Jiayu Yang, Ziang Cheng, Yunfei Duan, **Pan Ji**, Hongdong Li. [Consistnet: Enfo
 
 Jiaxin Wei, Xibin Song, Weizhe Liu, Laurent Kneip, Hongdong Li, **Pan Ji**. [RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery](https://arxiv.org/abs/2309.10255). In IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
-Zhuqing Zhang, Dongxuan Li, Jiayao Ma, Yijia He, **Pan Ji**, Rong Xiong, Hongdong Li, Yue Wang. Advancing Virtual Reality Interaction: A Ring-Shaped Controller and Pose Tracking. In IEEE International Conference on Robotics and Automation (ICRA), 2024.
+Zhuqing Zhang, Dongxuan Li, Jiayao Ma, Yijia He, **Pan Ji**, Rong Xiong, Hongdong Li, Yue Wang. [Advancing Virtual Reality Interaction: A Ring-Shaped Controller and Pose Tracking](https://ieeexplore.ieee.org/document/10610313). In IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
 Yiqun Zhang, Zhenyue Qin, Saeed Anwar, Dongwoo Kim, Yang Liu, **Pan Ji**, Tom Gedeon. [Position-Sensing Graph Neural Networks: Proactively Learning Nodes Relative Positions](https://ieeexplore.ieee.org/abstract/document/10478451). IEEE Transactions on Neural Networks and Learning Systems, 2024/3/26.
 
