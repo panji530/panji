@@ -18,7 +18,7 @@ Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Ho
 
 Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, **Pan Ji**. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). arXiv: 2405.15622, 2024.
 
-Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, **Pan Ji**. [Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane](https://arxiv.org/pdf/2403.16210). arXiv preprint arXiv: 2403.16210, 2024.
+Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, **Pan Ji**. [Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane](https://arxiv.org/pdf/2403.16210). in SIGGRAPH Asia, 2024.
 
 Ruikai Cui, Weizhe Liu, Weixuan Sun, Senbo Wang, Taizhang Shang, Yang Li, Xibin Song, Han Yan, Zhennan Wu, Shenzhou Chen, Hongdong Li, **Pan Ji**. [NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2403.18241). in European Conference on Computer Vision (ECCV), 2024.
 
@@ -38,7 +38,7 @@ Changjiang Cai, **Pan Ji**, Qingan Yan, Yi Xu. [RIAV-MVS: Recurrent-Indexing an 
 
 Nitin Bansal, **Pan Ji**, Junsong Yan, Yi Xu. [Semantics-Depth-Symbiosis: Deeply Coupled Semi-Supervised Learning of Semantics and Depth](https://arxiv.org/pdf/2206.10562.pdf). Winter Conference on Applications of Computer Vision (WACV), 2023.
 
-**Pan Ji***, Qingan Yan*, Yuxin Ma, Yi Xu. [GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping](https://arxiv.org/abs/2205.01656). In European Conference on Computer Vision (ECCV), 2022.
+**Pan Ji**, Qingan Yan, Yuxin Ma, Yi Xu. [GeoRefine: Self-Supervised Online Depth Refinement for Accurate Dense Mapping](https://arxiv.org/abs/2205.01656). In European Conference on Computer Vision (ECCV), 2022.
 
 Jiachen Liu, **Pan Ji**, Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu. [PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo](https://arxiv.org/abs/2203.12082). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [Code](https://github.com/oppo-us-research/PlaneMVS).
 
@@ -52,7 +52,7 @@ Sudhir Yarram, Jialian Wu, **Pan Ji**, Yi Xu, Junsong Yuan. [Deformable vistr: S
 
 Pengfei Fang, Jieming Zhou, Soumava Kumar Roy, **Pan Ji**, Lars Petersson, Mehrtash Harandi. [Attention in attention networks for person retrieval](https://ieeexplore.ieee.org/abstract/document/9405427), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021/4/15.
 
-**Pan Ji***, Runze Li, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
+**Pan Ji**, Runze Li, Bir Bhanu, Yi Xu. [MonoIndoor: Towards Good Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments](https://arxiv.org/pdf/2107.12429.pdf). In International Conference on Computer Vision (ICCV), 2021. 
 
 Yang Liu, Zhenyue Qin, Saeed Anwar, **Pan Ji**, Dongwoo Kim, Sabrina Caldwell, Tom Gedeon. [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/pdf/2104.10546.pdf). In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/Yang-Liu1082/InvDN).
 
