@@ -16,7 +16,7 @@ From Sep. 2011 to Oct. 2012, Pan was a research assistant at the 3DTV Laboratory
 # Selected Publications
 Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Hongdong Li. [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches](https://arxiv.org/pdf/2408.04567). arXiv: 2408.04567, 2024.
 
-Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, **Pan Ji**. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). arXiv: 2405.15622, 2024.
+Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, **Pan Ji**. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). In  Advances in Neural Information Processing Systems (NeurIPS), 2024.
 
 Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, **Pan Ji**. [Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane](https://arxiv.org/pdf/2403.16210). in SIGGRAPH Asia, 2024.
 
