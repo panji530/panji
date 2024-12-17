@@ -12,6 +12,8 @@ Dr. Pan Ji is currently the Director of Visual Perception of XR Vision Labs at T
 **I'm hiring research interns to work on 3D Gen AI. Drop me an email if you're interested!**
 
 # Selected Publications
+Han Yan, Mingrui Zhang, Yang Li, Chao Ma, **Pan Ji**.[PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image](https://arxiv.org/pdf/2411.18548). arXiv:2411.18548, 2024.
+
 Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Hongdong Li. [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches](https://arxiv.org/pdf/2408.04567). arXiv: 2408.04567, 2024.
 
 Ruikai Cui, Xibin Song, Weixuan Sun, Senbo Wang, Weizhe Liu, Shenzhou Chen, Taizhang Shang, Yang Li, Nick Barnes, Hongdong Li, **Pan Ji**. [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/pdf/2405.15622). In  Advances in Neural Information Processing Systems (NeurIPS), 2024.
