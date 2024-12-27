@@ -9,10 +9,9 @@ redirect_from:
 
 Dr. Pan Ji is currently the Director of Visual Perception of XR Vision Labs at Tencent. He was a Senior Staff Research Engineer and Manager at InnoPeak Technology (a.k.a., OPPO US Research Center), leading a team to work on XR (AR/VR/MR) related projects, and previously worked as a researcher at NEC Labs America. He did a Post-Doc with Pro. [Ian Reid](https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en) at the University of Adelaide and obtained his Ph.D. from the Australian National University, supervised by Pro. [Hongdong Li](https://scholar.google.com/citations?user=Mq89JAcAAAAJ&hl=en) and Dr. [Mathieu Salzmann](https://scholar.google.com/citations?user=n-B0jr4AAAAJ&hl=en).  His current research interests lie in 3D Gen AI with applications in the gaming industry. He received the Best Student Paper Award at the International Conference on Image Processing (ICIP) 2014.
 
-**I'm hiring research interns to work on 3D Gen AI. Drop me an email if you're interested!**
-
 # Selected Publications
-Han Yan, Mingrui Zhang, Yang Li, Chao Ma, **Pan Ji**.[PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image](https://arxiv.org/pdf/2411.18548). arXiv:2411.18548, 2024.
+Han Yan, Mingrui Zhang, Yang Li, Chao Ma, **Pan Ji**.[PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image](https://arxiv.org/pdf/2411.18548). 
+ arXiv:2411.18548, 2024.
 
 Yongzhi Xu, Yonhon Ng, Yifu Wang, Inkyu Sa, Yunfei Duan, Yang Li, **Pan Ji**, Hongdong Li. [Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User’s Casual Sketches](https://arxiv.org/pdf/2408.04567). arXiv: 2408.04567, 2024.
 
